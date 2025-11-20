@@ -1,0 +1,15 @@
+{
+  "profiles": {
+    "PetPoojaSalesFetcher": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "PETPOOJA_APP_KEY": "srd2neaq1xg7bzc6uyk5jmwv98o4tpfh",
+        "PETPOOJA_APP_SECRET": "fd08934c5224af4c975015e599d60a74bf857b4a",
+        "PETPOOJA_ACCESS_TOKEN": "0442e1ee9899bc3806f1a40be490af4ec5c6602a",
+        "PETPOOJA_REST_ID": "51wok2zxnsad",
+        "PETPOOJA_FROM_DATE": "2025-01-20 00:00:00",
+        "PETPOOJA_TO_DATE": "2025-01-20 23:59:59"
+      }
+    }
+  }
+}
